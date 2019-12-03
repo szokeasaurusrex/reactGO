@@ -1,2 +1,5 @@
 # reactGO
-AU 2019 ENGR 1281.02H Software Design Project - Sichan Yuh and Daniel Szoke
+Sichan Yuh and Daniel Szoke
+Software Design Project
+RJF 15:00
+12/03/2019
