@@ -12,7 +12,7 @@ private:
     static const unsigned int MAX_DELAY_BETWEEN_SCREENS = 8000;
     static const unsigned int MIN_BLUE_SCREEN_SECONDS = 2;
     static const unsigned int MAX_BLUE_SCREEN_SECONDS = 8;
-    static const unsigned int RED_SCREEN_TIME = 300;
+    static const unsigned int RED_SCREEN_TIME = 600;
     static const unsigned int GREEN_SCREEN_TIME = 2000;
     static const int MAX_BLUE_SCREEN_SCORE = 3000;
 
